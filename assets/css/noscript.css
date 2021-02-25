@@ -44,3 +44,7 @@
 			#main > .panel:last-child {
 				margin-bottom: 0;
 			}
+			.info {
+				color: black;
+				font-size: 24px;
+			}
