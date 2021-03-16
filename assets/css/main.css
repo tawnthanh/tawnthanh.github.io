@@ -1307,7 +1307,7 @@ input, select, textarea {
 
 	body {
 		/* background-image: url("images/overlay.png"), url("images/pic05.jpg"); */
-		background: linear-gradient(180deg, rgba(27,26,26,1) 49%, rgba(0,0,0,1) 100%);
+		background: linear-gradient(180deg, rgba(27,26,26,1) 49%, rgba(0,0,0,1) 100%, rgba(0,0,0,1) 100%);
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
