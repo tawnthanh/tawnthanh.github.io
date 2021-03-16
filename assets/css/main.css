@@ -1558,6 +1558,7 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
+			position: relative;
 			width: 100%;
 		}
 
@@ -1582,6 +1583,7 @@ input, select, textarea {
 				width: auto;
 			}
 
+		.image-links
 /* Button */
 
 	input[type="button"],
